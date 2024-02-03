@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Student (B.Tech)
 --------------------------
 
-A Student studing in Mass Comunication Technology Faculity of RMUTT University
+A Student studying in Mass Comunication Technology Faculity (Fullstack Developer Department) of RMUTT University 
 
 * 🌍  I'm based in Angthong, Thailand
 * 🖥️  See my portfolio at [rouempire.github.io](http://rouempire.github.io)
