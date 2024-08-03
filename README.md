@@ -9,7 +9,7 @@ A Student studying in Mass Comunication Technology Faculity (Fullstack Developer
 * 🌍  I'm based in Angthong, Thailand
 * 🖥️  See my portfolio at [rouempire.github.io](http://rouempire.github.io)
 * ✉️  You can contact me at [rouempire1446@gmail.com](mailto:rouempire1446@gmail.com)
-* 🧠  I'm learning W3.CSS and Front End Framwork (React and NodeJS)
+* 🧠  I'm learning Vue JS and other FrontEnd Framework
 
 ### Skills
 
